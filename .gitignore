@@ -1,0 +1,12 @@
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+
+*.lnk
+
+# Python cache files generated when running Blender
+# -------------------------------------------------
+*__pycache__*
+
+#/bl-md-retopology-updater/
+#bl-md-retopology_updater/
+.vscode/
