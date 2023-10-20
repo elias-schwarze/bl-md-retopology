@@ -11,7 +11,7 @@ bl_info = {
     "category": "Object"
 }
 
-classes = (mdr_prefs
+classes = (mdr_prefs,
            )
 
 
